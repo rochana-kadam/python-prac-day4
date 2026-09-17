@@ -1,13 +1,13 @@
-def greet():
-    print("hello");
+# def greet():
+#     print("hello");
 
 # greet();
 
-# def greet(name="student"):
-#     print("hello",name);
+def greet(name="student"):
+    print("hello",name);
 
-# greet();
-# greet("rochana")
+greet();
+greet("rochana")
 
 # def sq(n):
 #     return n*n
