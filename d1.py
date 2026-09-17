@@ -3,15 +3,15 @@
 
 # greet();
 
-def greet(name="student"):
-    print("hello",name);
+# def greet(name="student"):
+#     print("hello",name);
 
-greet();
-greet("rochana")
+# greet();
+# greet("rochana")
 
-# def sq(n):
-#     return n*n
-# print (sq(5))
+def sq(n):
+    return n*n
+print (sq(5))
 
 
 # def add(a,b):
